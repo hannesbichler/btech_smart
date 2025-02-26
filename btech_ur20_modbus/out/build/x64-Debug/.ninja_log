@@ -1,0 +1,16 @@
+# ninja log v5
+4	18	0	clean	3f9b83505c84670f
+24	422	7622875490519395	CMakeFiles/ur20_modbus.dir/src/btech_ur20_modules.c.obj	4c3229536455aa86
+27	41	0	clean	3f9b83505c84670f
+21	269	7622877538630312	CMakeFiles/ur20_modbus.dir/src/btech_ur20_modules.c.obj	4c3229536455aa86
+26	40	0	clean	3f9b83505c84670f
+21	232	7622877754861929	CMakeFiles/ur20_modbus.dir/src/btech_ur20_modules.c.obj	4c3229536455aa86
+15	434	7622877756865823	CMakeFiles/ur20_modbus.dir/src/btech_ur20_modbus_device.c.obj	e1095bc688357f51
+27	44	0	clean	3f9b83505c84670f
+22	236	7622877939537840	CMakeFiles/ur20_modbus.dir/src/btech_ur20_modules.c.obj	4c3229536455aa86
+15	416	7622877941321660	CMakeFiles/ur20_modbus.dir/src/btech_ur20_modbus_device.c.obj	e1095bc688357f51
+22	36	0	clean	3f9b83505c84670f
+21	242	7622878813052231	CMakeFiles/ur20_modbus.dir/src/btech_ur20_modules.c.obj	4c3229536455aa86
+15	421	7622878814863563	CMakeFiles/ur20_modbus.dir/src/btech_ur20_modbus_device.c.obj	e1095bc688357f51
+422	654	7622878817069496	libur20_modbus.dll	430d73a99139eecc
+422	654	7622878817069496	libur20_modbus.dll.a	430d73a99139eecc

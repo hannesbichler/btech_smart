@@ -1,0 +1,6 @@
+# ninja log v5
+4	376	7622271792176342	CMakeFiles/btech_iec_client.dir/src/btech_iec_client.c.obj	9920cf901279521d
+11	540	7622271794208481	CMakeFiles/btech_iec_client.dir/src/btech_iec_client_connections.c.obj	abb0657cbc307536
+4	19	0	clean	3f9b83505c84670f
+15	339	7622277773954557	CMakeFiles/btech_iec_client.dir/src/btech_iec_client.c.obj	9920cf901279521d
+23	421	7622277977922479	CMakeFiles/btech_iec_client.dir/src/btech_iec_client_connections.c.obj	abb0657cbc307536

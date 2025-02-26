@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\BTech\\cpp\\btech_smart\\btech_smart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BTech\\cpp\\btech_smart\\btech_smart\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BTech\\cpp\\btech_smart\\btech_smart\\src\\btech_iec_program.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\btech_iec_program.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BTech\\cpp\\btech_smart\\btech_iec_runtime\\include\\btech_iec_function_library.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BTech\\cpp\\btech_smart\\btech_smart\\hardwareconfig\\hardware||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:hardwareconfig\\hardware||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "btech_iec_function_library.h",
+              "DocumentMoniker": "C:\\BTech\\cpp\\btech_smart\\btech_iec_runtime\\include\\btech_iec_function_library.h",
+              "RelativeDocumentMoniker": "..\\btech_iec_runtime\\include\\btech_iec_function_library.h",
+              "ToolTip": "C:\\BTech\\cpp\\btech_smart\\btech_iec_runtime\\include\\btech_iec_function_library.h",
+              "RelativeToolTip": "..\\btech_iec_runtime\\include\\btech_iec_function_library.h",
+              "ViewState": "AQIAAAIBAAAAAAAAAADgvwcBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-25T14:54:04.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "hardware",
+              "DocumentMoniker": "C:\\BTech\\cpp\\btech_smart\\btech_smart\\hardwareconfig\\hardware",
+              "RelativeDocumentMoniker": "hardwareconfig\\hardware",
+              "ToolTip": "C:\\BTech\\cpp\\btech_smart\\btech_smart\\hardwareconfig\\hardware",
+              "RelativeToolTip": "hardwareconfig\\hardware",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-24T20:23:55.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "btech_iec_program.c",
+              "DocumentMoniker": "C:\\BTech\\cpp\\btech_smart\\btech_smart\\src\\btech_iec_program.c",
+              "RelativeDocumentMoniker": "src\\btech_iec_program.c",
+              "ToolTip": "C:\\BTech\\cpp\\btech_smart\\btech_smart\\src\\btech_iec_program.c",
+              "RelativeToolTip": "src\\btech_iec_program.c",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAJkBAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-24T20:05:53.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\BTech\\cpp\\btech_smart\\btech_smart\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "CMakeLists.txt",
+              "ToolTip": "C:\\BTech\\cpp\\btech_smart\\btech_smart\\CMakeLists.txt",
+              "RelativeToolTip": "CMakeLists.txt",
+              "ViewState": "AQIAAAcAAAAAAAAAAADwvxsAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-24T20:05:39.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

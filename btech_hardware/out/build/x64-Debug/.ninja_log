@@ -1,0 +1,5 @@
+# ninja log v5
+4	16	0	clean	3f9b83505c84670f
+13	209	7621967967464114	CMakeFiles/btech_hardware.dir/src/btech_hardware.c.obj	9c0d26ce51c4314e
+223	422	7621967969370344	libbtech_hardware.dll	297c9f1bba0eb67
+223	422	7621967969370344	libbtech_hardware.dll.a	297c9f1bba0eb67

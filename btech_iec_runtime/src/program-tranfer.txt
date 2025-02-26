@@ -1,0 +1,10 @@
+1. genereate custom propram with automation studio
+ 1a	generate structured text from extisting funciton block diagrams
+ 2a generate c-code from structured text
+ 3a compile c-code to binary version for selected target
+
+2. transfer binary program to cpu
+3. stop cpu
+4. load binary program
+5. start cpu
+6. running program endless
